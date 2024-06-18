@@ -57,6 +57,10 @@ This project implements a multiplayer "Guess the Word" game using a client-serve
    npm run start:client (2 clients needed)
    ```
 
+### Similar Projects
+- [Simple C Socket](https://github.com/ENJATZ/pi_simple_socket)
+
+
 ### License
 
 MIT License
