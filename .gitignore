@@ -1,0 +1,4 @@
+rust_server/target/**
+dist/
+
+node_modules/
